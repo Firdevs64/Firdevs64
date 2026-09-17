@@ -55,6 +55,7 @@ C#/.NET, React, ilişkisel veritabanları ve full-stack web geliştirme alanlar�
 | 🐄 **Sürü Takip ve Yönetim** | Hayvan, sağlık, aşı ve çiftlik süreçlerini yöneten web & mobil platform. | ASP.NET Core, React, React Native, SQL Server | [Frontend](https://github.com/Firdevs64/suru-yonetimi-takibi-frontend) • [Backend](https://github.com/Firdevs64/suru-yonetimi-takibi-backend) |
 | 🆘 **Hayat Hattı** | İnternet olmadan BLE üzerinden acil yardım ve konum paylaşımı sağlayan mobil uygulama. | Flutter, Dart, BLE | [GitHub](https://github.com/Clumsy33-ES/Hayat-Hatti) |
 | 📍 **GeoCam Notes** | Fotoğraf, konum ve sesli not özelliklerine sahip offline destekli PWA. | JavaScript, PWA, Web APIs | [GitHub](https://github.com/Firdevs64/geocam-notes-pwa) |
+| 🎨 **Grafix Ajans** | İlk web sitesi çalışmam. Bir reklam ajansının hizmetlerini ve çalışmalarını tanıtmak amacıyla geliştirdiğim kurumsal web sitesi. | HTML, CSS, JavaScript | [GitHub](https://github.com/Firdevs64/grafix-ajans-web-sitesi) • [Canlı Demo](https://grafixajans.netlify.app/) |
 
 > 🚧 **DersPusulam aktif olarak geliştirilmektedir.**
 
