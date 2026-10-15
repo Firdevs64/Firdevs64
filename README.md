@@ -1,8 +1,5 @@
 <div align="center">
-
-Firdevs Köse
-<img src="https://img.shields.io/badge/Software%20Engineer-6F2038?style=for-the-badge&labelColor=2B101B&color=6F2038" alt="Software Engineer" />
-
+  <img width="100%" alt="Firdevs Köse | Software Engineer" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1C0D12,50:681A30,100:280E17&amp;height=190&amp;section=header&amp;text=Firdevs%20K%C3%B6se&amp;fontSize=57&amp;fontColor=FFFFFF&amp;fontAlignY=42&amp;desc=Software%20Engineer&amp;descAlignY=68&amp;descSize=21" />
 </div>
 
 <h2 align="center">👩‍💻 Hakkımda</h2>
