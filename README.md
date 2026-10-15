@@ -35,12 +35,10 @@
 <h3 align="center">Mobil ve Backend / Veritabanı</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-333333?style=flat-square&logo=flutter&logoColor=54C5F8" alt="Flutter" />
   <img src="https://img.shields.io/badge/React_Native-333333?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Entity_Framework_Core-333333?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/REST_API-333333?style=flat-square" alt="REST API" />
   <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-333333?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
 </div>
@@ -76,10 +74,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📚 DersPusulam</h3>
-      <p>Ders programı düzenlemeyi ve Pomodoro yöntemiyle çalışma planlamayı kolaylaştıran mobil uygulama.</p>
-      <p><b>Teknolojiler:</b> Flutter, Dart, SharedPreferences</p>
-      <p align="center"><a href="https://github.com/Firdevs64/DersPusulam">Kaynak Kod</a></p>
+      <h3 align="center">📍 GeoCam Notes</h3>
+      <p>Fotoğraflara konum bilgisi ve sesli not eklemeyi sağlayan, çevrimdışı kullanım destekli PWA uygulaması.</p>
+      <p><b>Teknolojiler:</b> JavaScript, HTML, CSS, PWA, Service Worker, Camera API, Geolocation API, Speech API</p>
+      <p align="center"><a href="https://github.com/Firdevs64/geocam-notes-pwa">Kaynak Kod</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🆘 Hayat Hattı</h3>
