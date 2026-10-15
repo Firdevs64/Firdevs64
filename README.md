@@ -1,35 +1,53 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4A0E1A,50:7A1C2E,100:2B0B13&height=170&section=header&text=Firdevs%20K%C3%B6se&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer&descAlignY=68&descSize=20" alt="Firdevs Köse - Software Engineer" />
+  <img src="./assets/banner.svg" alt="Firdevs Köse | Software Engineer" width="100%" />
 </div>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">Hakkımda</h2>
 
-<p align="center">
-Software Engineering student who enjoys building full-stack applications and turning ideas into practical products.
-I mainly work with <b>C#</b>, <b>ASP.NET Core</b>, <b>React</b> and <b>SQL Server</b>,
-while also exploring mobile development and modern web technologies.
-</p>
+- 🎓 Fırat Üniversitesi 4. sınıf Yazılım Mühendisliği öğrencisiyim.
+- 💻 Özellikle C#, ASP.NET Core, React ve SQL Server ile full-stack uygulamalar geliştiriyorum.
+- 📱 Web geliştirmenin yanında mobil uygulamalarla da ilgileniyor; farklı teknolojileri projelerimde deneyimliyorum.
+- 🧩 Bir fikri tasarımdan çalışan bir ürüne dönüştürmeyi, karşılaştığım problemleri çözmeyi ve yeni şeyler öğrenmeyi seviyorum.
+- 🚀 Hem bireysel hem ekip projelerinde deneyim kazanarak yazılım geliştirme alanında kendimi ilerletiyorum.
+<h2 align="center">Teknolojiler ve Araçlar</h2>
 
-<p align="center">
-I care about writing clean, functional and user-focused software,
-and I enjoy improving myself through real projects.
-</p>
-
----
-
-<h2 align="center">Core Technologies</h2>
-
+<h4 align="center">Ana Teknolojiler</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-6E1E32?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-7A1C2E?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/React-31161D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/SQL_Server-8C2036?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/C%23-75263B?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-75263B?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/React-75263B?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/SQL_Server-75263B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/REST_API-75263B?style=for-the-badge&logoColor=white" alt="REST API" />
 </div>
 
----
+<h4 align="center">Programlama Dilleri ve Web</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+</div>
 
-<h2 align="center">Tools & Platforms</h2>
+<h4 align="center">Mobil ve Backend Teknolojileri</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+</div>
 
+<h4 align="center">Veritabanları ve Servisler</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+</div>
+
+<h4 align="center">Araçlar &amp; Platformlar</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -40,36 +58,49 @@ and I enjoy improving myself through real projects.
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
 </div>
 
----
-
-<h2 align="center">Featured Projects</h2>
-
-### OmegaERP
-A mini ERP application focused on sales, purchasing, stock and current account management.  
-**Tech Stack:** C#, ASP.NET Core, React, SQL Server, PostgreSQL  
-🔗 [GitHub](https://github.com/Firdevs64/OmegaERP) • [Live Demo](https://omega-erp-sigma.vercel.app)
-
-### Sürü Takip ve Yönetim
-A web and mobile platform for livestock tracking, health monitoring and farm management processes.  
-**Tech Stack:** ASP.NET Core, React, React Native, SQL Server  
-🔗 [Frontend](https://github.com/Firdevs64/suru-yonetimi-takibi-frontend) • [Backend](https://github.com/Firdevs64/suru-yonetimi-takibi-backend)
-
-### DersPusulam
-A student-focused mobile app for organizing class schedules and planning study sessions with Pomodoro.  
-**Tech Stack:** Flutter, Dart, SharedPreferences  
-🔗 [GitHub](https://github.com/Firdevs64/DersPusulam)
-
-### Hayat Hattı
-A mobile application designed for emergency help and location sharing via Bluetooth Low Energy without internet.  
-**Tech Stack:** Flutter, Dart, BLE  
-🔗 [GitHub](https://github.com/Clumsy33-ES/Hayat-Hatti)
-
----
-
-<h2 align="center">Contact</h2>
+<h2 align="center">Öne Çıkan Projeler</h2>
 
 <div align="center">
-  <a href="https://github.com/Firdevs64"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto://firdevs6452@gmail.com"><img src="https://img.shields.io/badge/Gmail-8C2036?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/firdevs-kose/"><img src="https://img.shields.io/badge/LinkedIn-5C1624?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 OmegaERP</h3>
+      <p><b>Mini ERP Yönetim Sistemi</b></p>
+      <p>Satış, satın alma, stok ve cari hesap süreçlerini tek bir yerde yönetmeye yönelik full-stack uygulama.</p>
+      <p><i>C#, ASP.NET Core, React, SQL Server, PostgreSQL</i></p>
+      <a href="https://github.com/Firdevs64/OmegaERP">GitHub</a> · <a href="https://omega-erp-sigma.vercel.app">Canlı Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐄 Sürü Takip ve Yönetim</h3>
+      <p><b>Web ve Mobil Çiftlik Yönetimi</b></p>
+      <p>Hayvan kayıtları, sağlık ve aşı takibi ile çiftlik yönetim süreçlerini kolaylaştırmaya odaklanan platform.</p>
+      <p><i>ASP.NET Core, React, React Native, SQL Server</i></p>
+      <a href="https://github.com/Firdevs64/suru-yonetimi-takibi-frontend">Frontend</a> · <a href="https://github.com/Firdevs64/suru-yonetimi-takibi-backend">Backend</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 DersPusulam</h3>
+      <p><b>Ders Planlama ve Pomodoro Uygulaması</b></p>
+      <p>Öğrencilerin ders programlarını düzenleyip çalışma sürelerini planlayabildiği mobil uygulama. Geliştirme aşamasında.</p>
+      <p><i>Flutter, Dart, SharedPreferences</i></p>
+      <a href="https://github.com/Firdevs64/DersPusulam">GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🆘 Hayat Hattı</h3>
+      <p><b>Çevrimdışı Acil Yardım Uygulaması</b></p>
+      <p>İnternet bağlantısı olmadan Bluetooth Low Energy aracılığıyla acil yardım ve konum paylaşımını amaçlayan mobil uygulama.</p>
+      <p><i>Flutter, Dart, BLE</i></p>
+      <a href="https://github.com/Clumsy33-ES/Hayat-Hatti">GitHub</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<h2 align="center">Benimle İletişime Geç</h2>
+
+<div align="center">
+  <a href="https://github.com/Firdevs64"><img src="https://img.shields.io/badge/GitHub-23161A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:EMAIL_ADRESINI_BURAYA_YAZ"><img src="https://img.shields.io/badge/Gmail-82263D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/firdevs-kose/"><img src="https://img.shields.io/badge/LinkedIn-531927?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
