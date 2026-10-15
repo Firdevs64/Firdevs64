@@ -7,7 +7,6 @@
 - 🎓 Fırat Üniversitesi 4. sınıf Yazılım Mühendisliği öğrencisiyim.
 - 💻 Özellikle C#, ASP.NET Core, React ve SQL Server ile full-stack uygulamalar geliştiriyorum.
 - 📱 Web geliştirmenin yanında mobil uygulamalarla da ilgileniyor, farklı teknolojileri projelerimde deniyorum.
-- 🧩 Fikirleri çalışan ürünlere dönüştürmeyi, problem çözmeyi ve yeni şeyler öğrenmeyi seviyorum.
 - 🚀 Bireysel ve ekip projeleriyle deneyim kazanarak kendimi geliştirmeye devam ediyorum.
 <h2 align="center">🛠️ Teknolojiler ve Araçlar</h2>
 
